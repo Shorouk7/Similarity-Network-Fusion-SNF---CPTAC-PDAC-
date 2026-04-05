@@ -132,10 +132,6 @@ Tumor program activation:
 
 ## Figures
 
-### Pipeline
-
-![Pipeline](Figures/diagram.png)
-
 ### SNF Heatmap
 
 ![Heatmap](Figures/Heatmap-SNF.png)
