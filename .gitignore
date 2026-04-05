@@ -1,0 +1,39 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# RStudio
+*.Rproj
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large data files (IMPORTANT for GitHub)
+*.rds
+*.hdf5
+*.h5
+*.csv
+*.txt
+
+# Keep structure but ignore raw data
+!README.md
+!Figures/*.png
+
+# Python (if used)
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Temporary
+*.tmp
+*.bak
