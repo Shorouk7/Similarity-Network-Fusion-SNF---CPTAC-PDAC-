@@ -65,12 +65,6 @@ The pipeline integrates:
 
 ---
 
-### Pipeline Diagram
-
-![Pipeline](Figures/diagram.png)
-
----
-
 ### Cluster Composition
 
 ![Cluster](Figures/Cluster-composition.png)
