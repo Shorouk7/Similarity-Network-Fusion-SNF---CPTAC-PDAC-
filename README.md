@@ -12,7 +12,7 @@
 
 ## Author
 
-**Assistant Lecturer:** Shorouf Aldiarabi
+**Assistant Lecturer:** Shorouk Aldeyarbi
 Faculty of Science, Port Said University, Egypt
 
 ---
